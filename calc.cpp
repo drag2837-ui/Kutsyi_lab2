@@ -23,7 +23,7 @@ int main() {
             // code3
             break;
         case 4:
-            // code4
+            result = (double) a / b;
             break;
     }
 
